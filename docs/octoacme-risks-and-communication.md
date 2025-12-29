@@ -36,6 +36,7 @@ Incident Communication
 - Actions being taken
 - Expected timeline
 - Post-incident blameless retrospective scheduled
+- **Customer Support Liaison** notified immediately to prepare customer communications and track customer-reported impact
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor

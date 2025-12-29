@@ -29,6 +29,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
+- **UX Designer Involvement**: Ensure design specs and wireframes are ready before development starts. UX Designer confirms design handoff clarity and accessibility requirements.
+- **Data Analyst Involvement**: Confirm success metrics and tracking requirements are defined for features being planned.
 
 ## Risk & Dependency Management
 - Capture in Risk Register:

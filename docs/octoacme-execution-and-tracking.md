@@ -27,6 +27,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- **Data Analyst Role**: Data Analysts own metric definitions, dashboard creation, and trend analysis. They collaborate with PM to define KPIs during planning and provide regular metric reviews to the team.
+- Ensure metric accuracy and consistency across reporting tools
+- Use data to inform sprint retrospectives and prioritization decisions
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup

@@ -44,7 +44,7 @@ Each document below offers practical checklists, templates, and concrete guidanc
 ### Foundation
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** — Introduction to OctoAcme's approach, core roles, key artifacts, and communication cadence
-- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed responsibilities and goals for Developers, Product Managers, and Project Managers
+- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed responsibilities and goals for Developers, Product Managers, Project Managers, UX Designers, Release Managers, Data Analysts, and Customer Support Liaisons
 
 ### Project Lifecycle
 
